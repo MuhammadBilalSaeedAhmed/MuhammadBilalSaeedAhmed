@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadBilalSaeedAhmed
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Web Development,Coding&generative Ai
+- 🌱 I’m currently learning ...Web Development,Coding&Generative Ai
 - 💞️ I’m looking to collaborate on ...Web Development&coding
 - 📫 How to reach me ...bilalsaeed0236@gmail.com
 - 😄 Pronouns: ...boss
